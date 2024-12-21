@@ -1,3 +1,3 @@
-# Git adn GitHub course
+# Git and GitHub course
 
 Crash course for Git 
